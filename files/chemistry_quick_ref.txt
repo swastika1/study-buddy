@@ -1,0 +1,25 @@
+Quick Chemistry Facts
+
+Chemical Bonding:
+- Ionic bonds: Transfer of electrons (NaCl)
+- Covalent bonds: Sharing of electrons (H2O)
+- Metallic bonds: Sea of electrons (metals)
+
+Periodic Table Trends:
+- Atomic radius increases down a group
+- Electronegativity increases across a period
+- Ionization energy increases across a period
+
+Common Reactions:
+- Synthesis: A + B → AB
+- Decomposition: AB → A + B
+- Single replacement: A + BC → AC + B
+- Double replacement: AB + CD → AD + CB
+
+Important Constants:
+- Avogadro's number: 6.022 × 10²³
+- Gas constant R: 8.314 J/(mol·K)
+- Speed of light: 3.0 × 10⁸ m/s
+
+Study tip: Use mnemonic "LEO says GER" 
+(Loss of Electrons is Oxidation, Gain of Electrons is Reduction)
