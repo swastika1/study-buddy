@@ -7,7 +7,7 @@ AI-powered study assistant using AWS Bedrock. Ask questions and generate quizzes
 - Ask questions about your documents with source citations
 - Generate practice quizzes from all files or specific documents
 - Supports PDF, DOCX, PPTX, XLSX, TXT, MD, HTML, CSV, JSON
-- Powered by Amazon Nova Lite and Titan Embeddings
+- Powered by Amazon Nova Lite and Titan Embeddings.
 
 ## Quick Setup
 
